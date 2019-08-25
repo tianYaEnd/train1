@@ -5,5 +5,8 @@ this is my second
 
 i have added this line in my 2nd attempt
 
+new feature1
+new feature2
+new feature3
 
-v1 done
+done
